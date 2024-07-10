@@ -39,8 +39,7 @@
   }
   
   .item-title{
-    position: absolute;
-      text-align: right;
+    text-align: right;
     top:0;
     right: 0px;
     background: green; 
